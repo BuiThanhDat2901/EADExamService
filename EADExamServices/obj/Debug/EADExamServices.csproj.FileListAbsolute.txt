@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EADExamServices.dll.config
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EADExamServices.dll
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EADExamServices.pdb
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EntityFramework.dll
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EntityFramework.xml
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.dll
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.pdb
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.Migrations.InitTable.resources
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\EADExamServices\EADExamServices\obj\Debug\EADExamServices.Migrations.InitTable1.resources
